@@ -1,0 +1,125 @@
+body {
+    background-image: url("https://cdn-ext.fanatical.com/production/product/1280x720/f26a6d71-ac23-4c42-b30f-3d31e7d0c5e0.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    height: 11%;
+    border-radius: 30px;
+    font-size: 42px;
+    color: aliceblue;
+    background-color: #445ac5;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+#seconds-count{
+    background-color: #445ac5;
+    position: fixed;
+    top: 20px;
+    left: 50px;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    border: solid 1px;
+    border-radius: 30px;
+}
+
+#new-question{
+    position: fixed;
+    width: 100%;
+    height: 11%;
+    border: none;
+    border-radius: 30px;
+}
+
+.stats {
+    position: fixed;
+    right: 10%;
+    top: 1px;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+.spacer{
+    height: 80px;
+    width: 100%;
+}
+
+#question {
+    position: fixed;
+    font-size: 26px;
+    padding: 20px;
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 30px;
+    top: 100px;
+}
+
+.btn {
+    font-size: 42px;
+    color: aliceblue;
+    background-color: #445ac5;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #6677cf;
+}
+#invis{
+    position: fixed;
+    display: grid;
+    top: 200px;
+    margin: 0px;
+    padding: 20px;
+    width: 20%;
+}
+
+#answer-1,
+ #answer-2,
+ #answer-3,
+ #answer-4 {
+     margin: 10px;
+     border: none;
+     border-radius: 15px;
+     font-size: 25px;
+ }
+
+#message {
+    position: fixed;
+    background-color:rgb(91, 145, 192);
+    color: aliceblue;
+    height: 40px;
+    width: 280px;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    font-size: 30px;
+    top: 600px;
+}
+#picture {
+    position: fixed;
+    padding-top: 130px;
+    margin-inline-start: 550px;
+    width: 300px;
+    height: 300px;
+}
+
+#video{
+    position: fixed;
+    padding-top: 130px;
+    margin-inline-start: 550px;
+}
+
+
+#reveal{
+    position: fixed;
+    top:550px;
+    font-size: 30px;
+ }
+
+ 
