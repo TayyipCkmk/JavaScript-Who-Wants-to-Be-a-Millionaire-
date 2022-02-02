@@ -1,1 +1,1 @@
-# 8.Odev
+# JavaScript-Who-Wants-to-Be-a-Millionaire-
